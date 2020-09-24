@@ -1,2 +1,2 @@
-# C1-team
- Konstantin Larin, Brandon Zhu, Connie Xu, and Willie Turchetta
+# Citadel Data Open
+Question: What combination of basic movie features is the best predictor of movie revenue?
